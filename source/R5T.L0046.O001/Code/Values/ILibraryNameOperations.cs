@@ -6,7 +6,7 @@ using R5T.T0197.Extensions;
 using R5T.L0046.X000;
 
 using IExternalLibraryName = R5T.T0197.ILibraryName;
-using IExternalUnadjustedLibraryName = R5T.T0197.IUnadjustedLiraryName;
+using IExternalUnadjustedLibraryName = R5T.T0197.IUnadjustedLibraryName;
 
 
 namespace R5T.L0046.O001
